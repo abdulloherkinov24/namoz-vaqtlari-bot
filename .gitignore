@@ -1,0 +1,10 @@
+# Environment variables
+.env
+.env.local
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
